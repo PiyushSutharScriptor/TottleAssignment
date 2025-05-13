@@ -38,3 +38,6 @@ Three cases were tested using Postman:
 
 # Repository Link
 https://github.com/PiyushSutharScriptor/TottleAssignment
+
+# Video Link 
+https://drive.google.com/file/d/18k-4clf6eHSjvPPlAmwCAnINMTwiGYH-/view?usp=sharing
