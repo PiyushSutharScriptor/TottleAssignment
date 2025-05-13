@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Node.js", "category": "Backend" },
+  { "id": 2, "name": "React", "category": "Frontend" },
+  { "id": 3, "name": "GraphQL", "category": "API" },
+  { "id": 4, "name": "Docker", "category": "DevOps" },
+  { "id": 5, "name": "Kubernetes", "category": "DevOps" }
+]
